@@ -12,6 +12,8 @@ There are:
  
  Although, I highly suspect that the time I spent coding this is probably more than a lifetime of time spent on grabbing a calculator from somewhere.
  
+ *Note: I got slightly lazy towards the end, so I reused some local variable names, and used some unintuitive but short var names. Don't mind me.*
+ 
  Written in Python.
  
  
