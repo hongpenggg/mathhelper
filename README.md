@@ -19,3 +19,7 @@ There are:
  
  TL;DR:
 It's just a calculator, folks. >:)
+
+Contents in the Repo:
+1. Mathhelper V1
+2. Mathhelper V1.1 (Added functionality, and whitespace.) [Newest Version]
