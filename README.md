@@ -22,4 +22,6 @@ It's just a calculator, folks. >:)
 
 Contents in the Repo:
 1. Mathhelper V1
-2. Mathhelper V1.1 (Added functionality, and whitespace.) [Newest Version]
+2. Mathhelper V1.1.1 (Added functionality, and whitespace.)
+3. Mathhelper V1.1.2 (Added functionality)
+4. Mathhelper V1.1.3 (Windows executable for ease of use) [Newest Version]
