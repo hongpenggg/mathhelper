@@ -6,7 +6,7 @@ Now, look here. This is a tool with some simple tools inside it.
 There are:
   1. Simple tools, +-x÷
   2. More complex ones, like √(x).
-  3. Stat Analysis tools, like mean, median, mode and standard deviation (stddev).
+  3. Stat Analysis tools, like mean, median, mode and standard deviation (stddev). [I was hoping to add the linreg ability to this but I'm a little lazy to do it.]
  
  All these are simply for lazy people like you and I, all whom simply don't want to move to grab a calculator.
  
